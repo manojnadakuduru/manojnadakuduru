@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open-source data engineering and analytics projects**
 
-- 🤝 I’m looking for help with **Streaming data pipelines and Kafka-based architectures**
+- 🤝 I’m looking for help with **Kafka-based architectures**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manojnadakuduru](https://github.com/manojnadakuduru)
 
