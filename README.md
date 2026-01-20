@@ -27,7 +27,7 @@
   <li>End-to-end Data Engineering (ETL / ELT, Batch & Incremental Pipelines)</li>
   <li>Data Modeling (Star Schema, Fact & Dimension Tables)</li>
   <li>Advanced SQL & Analytics Engineering</li>
-  <li>Cloud Data Platforms (AWS, Snowflake, GCP, Azure)</li>
+  <li>Cloud Data Platforms (AWS, Databricks, Snowflake, GCP, Azure)</li>
   <li>Big Data Processing (Apache Spark, Spark SQL)</li>
   <li>Streaming & Messaging (Kafka)</li>
   <li>BI & Visualization (Power BI, Tableau)</li>
