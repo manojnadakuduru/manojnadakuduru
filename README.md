@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manoj Nadakuduru</h1>
 <h3 align="center">
-Senior Data Engineer | Building scalable data platforms for analytics & business decision-making
+ Data Engineer and Analytics Professional | Building scalable data platforms for analytics & business decision-making
 </h3>
 
 <p align="left">
