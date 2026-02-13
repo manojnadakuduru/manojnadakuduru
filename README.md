@@ -20,7 +20,7 @@
 - 📊 Building **analytics-ready data models** (fact/dimension, marts) that power BI and reporting
 - ☁️ Working extensively with **cloud data platforms** to deliver scalable, reliable data solutions
 - 🤝 Collaborating with analytics, product, and business teams to translate requirements into data systems
-- 💬 Ask me about **SQL optimization, Data modeling, Snowflake, Spark, DBT, Kafka, and ETL/ELT design**
+- 💬 Ask me about **SQL optimization, data modeling, Snowflake, Spark, Kafka, and ETL/ELT design**
 - 📫 Reach me at **manojnadakuduru@gmail.com**
 
 ---
@@ -109,26 +109,14 @@
 
 <p align="left">
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   </a>
   <a href="https://www.tableau.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="50" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/>
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojnadakuduru&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojnadakuduru&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
